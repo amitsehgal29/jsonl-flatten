@@ -1,0 +1,3 @@
+{"order_id": 1001, "customer": {"name": "alice", "address": {"city": "Dubai"}}, "items": [{"sku": "A1", "qty": 2}, {"sku": "B7", "qty": 1}], "paid": true}
+{"order_id": 1002, "customer": {"name": "bob", "address": {"city": "Pune"}}, "items": [{"sku": "C3", "qty": 5}], "paid": false, "coupon": "OCT10"}
+{"order_id": 1003, "customer": {"name": "carol"}, "items": [], "paid": true}
